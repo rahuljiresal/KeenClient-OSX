@@ -1,5 +1,5 @@
-Keen IO OS X SDK
-=================
+Keen IO OS X Client
+===================
 
 The Keen IO OS X client is based on the Keen IO [iOS client](https://github.com/keenlabs/KeenClient-iOS). You can safely use the iOS API and Client Documentation to get going with this library.
 
