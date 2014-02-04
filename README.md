@@ -13,7 +13,9 @@ The Keen IO OS X client is based on the Keen IO [iOS client](https://github.com/
 2. If you're using ARC for your project, [disable ARC](http://stackoverflow.com/questions/6646052/how-can-i-disable-arc-for-a-single-file-in-a-project) for all classes you just imported.
 3. Make sure to add CoreLocation.framework to the "Link Binary with Libraries" section.
 4. Under "Capabilities -> App Sandbox" of your project - (if it is a Sandboxed application)
+
     i. Enable the "Outgoing Connections (Client)" so data can be sent to Keen.
+    
     ii. Enable "Location" if you want to send location data to Keen. 
 
 Voila!
